@@ -900,3 +900,72 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 03:06:03.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
 [21Jan2025 03:06:18.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set own game mode to Creative Mode]
 [21Jan2025 03:06:20.556] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[21Jan2025 03:09:32.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set own game mode to Survival Mode]
+[21Jan2025 03:10:39.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 130.500000, 34.500000, -59.500000]
+[21Jan2025 03:11:17.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set own game mode to Creative Mode]
+[21Jan2025 03:12:02.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set own game mode to Survival Mode]
+[21Jan2025 03:12:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 121.500000, 34.500000, -57.500000]
+[21Jan2025 03:16:21.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.682] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.682] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.682] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.682] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.682] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.686] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.686] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.686] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.686] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.686] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.686] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.686] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.687] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.687] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.687] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.687] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.687] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.687] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.687] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.688] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.688] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.688] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.688] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.688] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.688] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.689] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.689] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.689] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.689] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.689] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.689] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.690] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.690] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.690] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[21Jan2025 03:16:21.690] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
