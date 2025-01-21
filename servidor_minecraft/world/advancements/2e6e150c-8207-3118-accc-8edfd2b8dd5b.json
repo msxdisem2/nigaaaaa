@@ -8344,7 +8344,8 @@
   },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
-      "has_slabs": "2024-12-24 17:26:16 +0000"
+      "has_slabs": "2024-12-24 17:26:16 +0000",
+      "has_planks": "2025-01-21 22:44:28 +0000"
     },
     "done": false
   },
@@ -18979,6 +18980,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-01-21 22:30:18 +0000"
@@ -18988,6 +18995,12 @@
   "aether:recipes/combat/zanite_sword": {
     "criteria": {
       "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/aether/sign_post_skyroot": {
+    "criteria": {
+      "has_planks": "2025-01-21 22:44:28 +0000"
     },
     "done": false
   },
@@ -19034,15 +19047,52 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_fence_gate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/zanite_boots": {
     "criteria": {
       "has_zanite": "2025-01-21 22:33:32 +0000"
     },
     "done": false
   },
+  "aether:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_the_recipe": "2025-01-21 22:44:38 +0000",
+      "has_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-01-21 22:47:43 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/nature_staff": {
     "criteria": {
       "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/skyroot_axe": {
+    "criteria": {
+      "has_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/misc/skyroot_bucket": {
+    "criteria": {
+      "has_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/skyroot_trapdoor": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
     },
     "done": false
   },
@@ -19066,13 +19116,33 @@
   },
   "aether:recipes/tools/zanite_pickaxe": {
     "criteria": {
-      "has_zanite": "2025-01-21 22:33:32 +0000"
+      "has_zanite": "2025-01-21 22:33:32 +0000",
+      "has_the_recipe": "2025-01-21 22:44:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/combat/zanite_gloves": {
     "criteria": {
       "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-01-21 22:44:30 +0000",
+      "has_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_shovel": {
+    "criteria": {
+      "has_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-01-21 22:47:43 +0000"
     },
     "done": false
   },
@@ -19094,6 +19164,18 @@
     },
     "done": false
   },
+  "aether:recipes/tools/skyroot_pickaxe": {
+    "criteria": {
+      "has_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-01-21 22:47:43 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-01-21 22:30:18 +0000"
@@ -19112,6 +19194,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/golden_dart_shooter": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
   "aether:read_lore": {
     "criteria": {
       "lore_book_entry": "2025-01-21 22:33:07 +0000"
@@ -19121,6 +19209,18 @@
   "aether:recipes/combat/wood_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/skyroot_hoe": {
+    "criteria": {
+      "has_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-01-21 22:44:42 +0000"
     },
     "done": false
   },
@@ -19136,9 +19236,21 @@
     },
     "done": false
   },
+  "aether:recipes/redstone/skyroot_pressure_plate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/zanite_pendant": {
     "criteria": {
       "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/skyroot_sword": {
+    "criteria": {
+      "has_planks": "2025-01-21 22:44:28 +0000"
     },
     "done": false
   },
@@ -19148,15 +19260,46 @@
     },
     "done": false
   },
-  "aether:recipes/building_blocks/skyroot_planks": {
+  "aether:recipes/decorations/skyroot_sign": {
     "criteria": {
-      "has_logs": "2025-01-21 22:40:16 +0000"
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
     },
     "done": false
+  },
+  "aether:recipes/building_blocks/skyroot_stairs": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/skyroot_button": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-01-21 22:40:16 +0000",
+      "has_the_recipe": "2025-01-21 22:44:28 +0000"
+    },
+    "done": true
   },
   "aether:recipes/tools/zanite_shovel": {
     "criteria": {
       "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/skyroot_door": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/skyroot_slab": {
+    "criteria": {
+      "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
     },
     "done": false
   },
