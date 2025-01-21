@@ -801,3 +801,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 22:54:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Mimic
 [21Jan2025 22:54:46.859] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [21Jan2025 22:54:56.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 22:56:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was crushed by Slider
+[21Jan2025 22:56:35.567] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[21Jan2025 22:56:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 22:56:54.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was crushed by Slider
+[21Jan2025 22:56:54.269] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 22:57:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 22:57:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was crushed by Slider
+[21Jan2025 22:57:17.715] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[21Jan2025 22:57:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was crushed by Slider
+[21Jan2025 22:57:23.236] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 22:57:23.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 22:57:31.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 22:57:45.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was crushed by Slider
+[21Jan2025 22:57:45.313] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[21Jan2025 22:58:04.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was crushed by Slider
+[21Jan2025 22:58:04.618] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[21Jan2025 22:58:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 22:58:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was crushed by Slider
+[21Jan2025 22:58:19.016] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 22:58:20.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was crushed by Slider
+[21Jan2025 22:58:20.519] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[21Jan2025 22:58:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 22:58:35.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[21Jan2025 22:58:35.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 23:00:11.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 538.500000, 57.500000, -424.500000]
+[21Jan2025 23:00:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 23:03:32.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was blown up by Sentry
+[21Jan2025 23:03:32.174] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 23:03:43.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 23:05:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 427.500000, 40.500000, -486.500000]
+[21Jan2025 23:05:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 23:06:08.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Mimic
+[21Jan2025 23:06:08.908] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 23:06:16.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
