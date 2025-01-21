@@ -1967,3 +1967,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 03:35:04.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set own game mode to Creative Mode]
 [21Jan2025 03:36:10.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set own game mode to Survival Mode]
 [21Jan2025 03:36:20.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 03:37:55.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has completed the challenge [Village Defender]
+[21Jan2025 03:38:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 03:39:24.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 128.500000, 1.500000, -237.500000]
+[21Jan2025 03:40:08.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> eguaro
+[21Jan2025 03:40:11.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> que paso
+[21Jan2025 03:40:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> niga
+[21Jan2025 03:43:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was slain by Enderman
+[21Jan2025 03:43:39.747] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[21Jan2025 03:43:48.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -1336.500000, -23.500000, -1117.500000]
+[21Jan2025 03:43:59.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 128.500000, 1.500000, -237.500000]
+[21Jan2025 03:45:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 50.500000, 43.500000, 303.500000]
+[21Jan2025 03:46:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 128.500000, 1.500000, -237.500000]
+[21Jan2025 03:47:06.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[21Jan2025 03:47:28.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
