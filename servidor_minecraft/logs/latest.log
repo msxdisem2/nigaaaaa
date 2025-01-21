@@ -882,3 +882,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 23:30:15.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1478, y=-9, z=-2716}
 [21Jan2025 23:31:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
 [21Jan2025 23:32:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 23:39:11.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 573.500000, 102.500000, -623.500000]
+[21Jan2025 23:53:44.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 605.500000, 65.500000, -2730.500000]
+[21Jan2025 23:53:55.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[21Jan2025 23:54:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 30000 experience points to STRANJO]
+[21Jan2025 23:55:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was squashed by a falling anvil
+[21Jan2025 23:55:27.835] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 23:55:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 753.500000, 20.500000, -760.500000]
+[21Jan2025 23:55:51.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 23:55:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 23:55:56.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 23:56:07.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Ender Pearl] to Liraanto]
+[21Jan2025 23:56:19.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]

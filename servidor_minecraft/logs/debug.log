@@ -13045,3 +13045,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 23:32:29.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 23:32:29.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 23:32:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 23:37:29.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:37:29.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:39:11.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 573.500000, 102.500000, -623.500000]
+[21Jan2025 23:42:29.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:42:29.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:45:22.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=745.21, y=88.00, z=-727.30], dimensionLocationPath overworld
+[21Jan2025 23:45:22.963] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=745.21, y=88.00, z=-727.30] in list []
+[21Jan2025 23:46:10.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/29525, l='ServerLevel[world]', x=729.65, y=83.35, z=-734.63], dimensionLocationPath overworld
+[21Jan2025 23:46:10.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/29525, l='ServerLevel[world]', x=729.65, y=83.35, z=-734.63] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@13da]
+[21Jan2025 23:46:10.811] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/29525, l='ServerLevel[world]', x=729.85, y=83.68, z=-734.95, removed=DISCARDED]
+[21Jan2025 23:47:29.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:47:29.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:50:12.120] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=803.12, y=57.00, z=-724.32]
+[21Jan2025 23:50:12.271] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=803.62, y=57.17, z=-724.33], dimensionLocationPath overworld
+[21Jan2025 23:50:12.271] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=803.62, y=57.17, z=-724.33] in list []
+[21Jan2025 23:50:26.917] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=803.88, y=30.98, z=-724.42]
+[21Jan2025 23:50:27.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=802.99, y=29.01, z=-724.41], dimensionLocationPath overworld
+[21Jan2025 23:50:27.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=802.99, y=29.01, z=-724.41] in list []
+[21Jan2025 23:52:05.579] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/32689, l='ServerLevel[world]', x=732.57, y=26.46, z=-704.43], dimensionLocationPath overworld
+[21Jan2025 23:52:05.580] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/32689, l='ServerLevel[world]', x=732.57, y=26.46, z=-704.43] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@13da]
+[21Jan2025 23:52:06.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/32689, l='ServerLevel[world]', x=733.39, y=26.21, z=-704.13, removed=DISCARDED]
+[21Jan2025 23:52:29.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:52:29.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:53:44.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 605.500000, 65.500000, -2730.500000]
+[21Jan2025 23:53:55.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[21Jan2025 23:53:58.444] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2728}
+[21Jan2025 23:53:58.444] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=613, y=76, z=-2729}
+[21Jan2025 23:54:13.567] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/EnchantmentMenu$1 (target of net/minecraft/world/Container)
+[21Jan2025 23:54:13.569] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/easymagic/world/inventory/ModEnchantmentMenu$2 (target of net/minecraft/world/inventory/Slot)
+[21Jan2025 23:54:13.569] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming fuzs/easymagic/world/inventory/ModEnchantmentMenu$3 (target of net/minecraft/world/inventory/Slot)
+[21Jan2025 23:54:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 30000 experience points to STRANJO]
+[21Jan2025 23:55:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was squashed by a falling anvil
+[21Jan2025 23:55:27.782] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:747, y:21, z:-759, dim:minecraft:overworld]
+[21Jan2025 23:55:27.785] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=747.87, y=22.00, z=-758.80]
+[21Jan2025 23:55:27.835] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 23:55:29.268] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=680.50, y=113.00, z=-342.50]
+[21Jan2025 23:55:33.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 753.500000, 20.500000, -760.500000]
+[21Jan2025 23:55:51.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 23:55:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 23:55:56.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 23:56:07.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Ender Pearl] to Liraanto]
+[21Jan2025 23:56:19.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 23:56:22.859] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=747.49, y=22.00, z=-758.98], dimensionLocationPath overworld
+[21Jan2025 23:56:22.859] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/5082, l='ServerLevel[world]', x=747.49, y=22.00, z=-758.98] in list []
