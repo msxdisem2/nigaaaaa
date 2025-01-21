@@ -14557,6 +14557,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 23:32:29 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/building_blocks/carved_stairs": {
     "criteria": {
       "has_carved_stone": "2025-01-21 22:53:09 +0000"
@@ -14605,11 +14677,23 @@
     },
     "done": false
   },
+  "aether:recipes/combat/zanite_helmet_repairing": {
+    "criteria": {
+      "has_zanite_helmet": "2025-01-21 23:26:57 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/zanite_chestplate_repairing": {
     "criteria": {
       "has_zanite_chestplate": "2025-01-21 23:21:06 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-21 23:23:44 +0000"
+    },
+    "done": true
   },
   "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
     "criteria": {

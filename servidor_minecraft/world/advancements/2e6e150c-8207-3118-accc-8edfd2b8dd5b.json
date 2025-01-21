@@ -18983,78 +18983,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 23:22:27 +0000"
-    },
-    "done": false
-  },
   "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-01-21 23:13:42 +0000"
@@ -19072,6 +19000,12 @@
   "aether:recipes/decorations/skyroot_fence": {
     "criteria": {
       "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2025-01-21 23:30:49 +0000"
     },
     "done": false
   },
@@ -19143,9 +19077,21 @@
     },
     "done": false
   },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-01-21 23:30:49 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
       "has_golden_dart": "2025-01-21 23:01:59 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-01-21 23:30:49 +0000"
     },
     "done": false
   },
@@ -19173,6 +19119,12 @@
       "has_the_recipe": "2025-01-21 23:20:36 +0000"
     },
     "done": true
+  },
+  "aether:recipes/combat/zanite_helmet_repairing": {
+    "criteria": {
+      "has_zanite_helmet": "2025-01-21 23:26:28 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/zanite_chestplate_repairing": {
     "criteria": {
@@ -19205,9 +19157,27 @@
     },
     "done": false
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-21 23:23:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-01-21 23:30:49 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/nature_staff": {
     "criteria": {
       "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/decorations/carved_wall": {
+    "criteria": {
+      "has_carved_stone": "2025-01-21 23:30:49 +0000"
     },
     "done": false
   },
@@ -19348,7 +19318,14 @@
   },
   "aether:recipes/combat/zanite_helmet": {
     "criteria": {
-      "has_zanite": "2025-01-21 22:33:32 +0000"
+      "has_zanite": "2025-01-21 22:33:32 +0000",
+      "has_the_recipe": "2025-01-21 23:26:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-01-21 23:30:49 +0000"
     },
     "done": false
   },
@@ -19424,6 +19401,13 @@
       "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
     },
     "done": false
+  },
+  "aether:recipes/building_blocks/carved_slab": {
+    "criteria": {
+      "has_carved_stone": "2025-01-21 23:30:49 +0000",
+      "has_the_recipe": "2025-01-21 23:30:54 +0000"
+    },
+    "done": true
   },
   "aether:recipes/combat/zanite_pendant": {
     "criteria": {

@@ -874,3 +874,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 23:24:13.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 142.500000, 66.500000, -489.500000]
 [21Jan2025 23:25:08.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 116.500000, 64.500000, -500.500000]
 [21Jan2025 23:26:07.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[21Jan2025 23:29:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 23:29:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[21Jan2025 23:29:55.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1297.500000, 214.500000, -2560.500000]
+[21Jan2025 23:29:55.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
+[21Jan2025 23:30:15.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1477, y=-9, z=-2716}
+[21Jan2025 23:30:15.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1478, y=-9, z=-2716}
+[21Jan2025 23:31:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[21Jan2025 23:32:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]

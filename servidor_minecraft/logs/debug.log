@@ -13032,3 +13032,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 23:26:07.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
 [21Jan2025 23:26:07.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone'/19463, l='ServerLevel[world]', x=248.93, y=38.00, z=-295.27, removed=UNLOADED_TO_CHUNK]
 [21Jan2025 23:26:07.722] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone'/19911, l='ServerLevel[world]', x=120.25, y=58.00, z=-397.92, removed=UNLOADED_TO_CHUNK]
+[21Jan2025 23:27:27.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:27:27.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:29:02.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 23:29:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[21Jan2025 23:29:55.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1297.500000, 214.500000, -2560.500000]
+[21Jan2025 23:29:55.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
+[21Jan2025 23:29:55.761] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/VanillaHopperItemHandler (target of net/minecraftforge/items/IItemHandler)
+[21Jan2025 23:30:15.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1477, y=-9, z=-2716}
+[21Jan2025 23:30:15.310] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1478, y=-9, z=-2716}
+[21Jan2025 23:31:16.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[21Jan2025 23:32:29.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:32:29.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:32:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
