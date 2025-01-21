@@ -18985,6 +18985,7 @@
   },
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
+      "has_golden_pendant": "2025-01-21 23:11:46 +0000",
       "has_golden_ring": "2025-01-21 23:01:16 +0000"
     },
     "done": false
@@ -19027,7 +19028,14 @@
   },
   "aether:recipes/combat/zanite_leggings": {
     "criteria": {
-      "has_zanite": "2025-01-21 22:33:32 +0000"
+      "has_zanite": "2025-01-21 22:33:32 +0000",
+      "has_the_recipe": "2025-01-21 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword_repairing": {
+    "criteria": {
+      "has_zanite_sword": "2025-01-21 23:11:47 +0000"
     },
     "done": false
   },
@@ -19080,12 +19088,24 @@
     },
     "done": false
   },
+  "aether:recipes/combat/zanite_chestplate_repairing": {
+    "criteria": {
+      "has_zanite_chestplate": "2025-01-21 23:02:42 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/misc/skyroot_stick": {
     "criteria": {
       "has_the_recipe": "2025-01-21 22:44:38 +0000",
       "has_planks": "2025-01-21 22:44:28 +0000"
     },
     "done": true
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-01-21 23:11:46 +0000"
+    },
+    "done": false
   },
   "aether:recipes/redstone/swet_sticky_piston": {
     "criteria": {
@@ -19120,6 +19140,12 @@
   "aether:recipes/redstone/skyroot_trapdoor": {
     "criteria": {
       "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/zanite_leggings_repairing": {
+    "criteria": {
+      "has_zanite_leggings": "2025-01-21 23:02:47 +0000"
     },
     "done": false
   },
@@ -19175,9 +19201,10 @@
   },
   "aether:recipes/combat/zanite_chestplate": {
     "criteria": {
-      "has_zanite": "2025-01-21 22:33:32 +0000"
+      "has_zanite": "2025-01-21 22:33:32 +0000",
+      "has_the_recipe": "2025-01-21 23:02:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/building_blocks/zanite_block": {
     "criteria": {
@@ -19217,6 +19244,7 @@
   },
   "aether:recipes/combat/poison_dart_shooter": {
     "criteria": {
+      "has_golden_dart_shooter": "2025-01-21 23:11:36 +0000",
       "has_aechor_petal": "2025-01-21 22:33:33 +0000"
     },
     "done": false
@@ -19230,6 +19258,12 @@
   "aether:recipes/tools/zanite_axe_repairing": {
     "criteria": {
       "has_zanite_axe": "2025-01-21 23:00:27 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/misc/enchanted_dart_shooter_enchanting": {
+    "criteria": {
+      "has_golden_dart_shooter": "2025-01-21 23:11:36 +0000"
     },
     "done": false
   },
@@ -19351,6 +19385,7 @@
   },
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
+      "has_golden_pendant": "2025-01-21 23:11:46 +0000",
       "has_golden_ring": "2025-01-21 23:01:16 +0000"
     },
     "done": false

@@ -835,3 +835,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 23:06:08.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Mimic
 [21Jan2025 23:06:08.908] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [21Jan2025 23:06:16.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 23:06:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was blown up by Sentry
+[21Jan2025 23:06:32.325] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 23:06:46.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 23:07:03.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 472.500000, 46.500000, -783.500000]
+[21Jan2025 23:07:06.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 403.500000, 33.500000, -525.500000]
+[21Jan2025 23:07:25.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[21Jan2025 23:08:02.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 23:09:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto hit the ground too hard
+[21Jan2025 23:09:02.766] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 23:09:13.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 23:09:18.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 474.500000, 59.500000, -760.500000]
+[21Jan2025 23:13:15.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Cold as Ice]
+[21Jan2025 23:13:42.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Don't Count Your Moas...]
+[21Jan2025 23:14:54.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 23:16:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 150.500000, 66.500000, -486.500000]
