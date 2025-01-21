@@ -13832,9 +13832,10 @@
   },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
-      "has_item": "2025-01-07 05:34:19 +0000"
+      "has_item": "2025-01-07 05:34:19 +0000",
+      "has_the_recipe": "2025-01-21 02:01:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
@@ -17002,6 +17003,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-21 02:28:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-01-21 01:56:53 +0000"
@@ -17018,6 +17025,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-01-21 01:56:53 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-01-21 02:01:59 +0000"
     },
     "done": false
   },

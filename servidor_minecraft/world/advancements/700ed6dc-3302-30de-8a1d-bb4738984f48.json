@@ -109,7 +109,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-21 02:20:40 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-01-21 02:09:10 +0000",
       "minecraft:deep_ocean": "2025-01-15 02:51:14 +0000",
+      "minecraft:frozen_river": "2025-01-21 02:26:26 +0000",
       "minecraft:sunflower_plains": "2025-01-18 01:33:49 +0000",
       "minecraft:cherry_grove": "2025-01-20 00:00:23 +0000",
       "minecraft:birch_forest": "2025-01-14 00:18:03 +0000",
@@ -117,14 +120,22 @@
       "minecraft:sparse_jungle": "2025-01-14 00:26:11 +0000",
       "minecraft:lukewarm_ocean": "2025-01-14 00:15:05 +0000",
       "minecraft:river": "2025-01-13 23:04:21 +0000",
+      "minecraft:stony_shore": "2025-01-21 02:18:50 +0000",
       "minecraft:dripstone_caves": "2025-01-14 16:43:51 +0000",
+      "minecraft:grove": "2025-01-21 02:27:55 +0000",
+      "minecraft:cold_ocean": "2025-01-21 02:19:23 +0000",
       "minecraft:forest": "2025-01-13 22:47:00 +0000",
       "minecraft:lush_caves": "2025-01-14 00:32:52 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-21 02:19:27 +0000",
+      "minecraft:frozen_ocean": "2025-01-21 02:23:24 +0000",
       "minecraft:desert": "2025-01-14 00:58:06 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-21 02:23:30 +0000",
       "minecraft:jungle": "2025-01-14 00:17:53 +0000",
       "minecraft:ocean": "2025-01-13 23:20:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-20 02:07:39 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-21 02:01:20 +0000",
       "minecraft:flower_forest": "2025-01-14 01:05:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-21 02:11:30 +0000",
       "minecraft:deep_dark": "2025-01-14 01:27:48 +0000",
       "minecraft:meadow": "2025-01-14 15:38:01 +0000",
       "minecraft:savanna": "2025-01-14 00:56:07 +0000",
@@ -144,6 +155,7 @@
       "highland": "2025-01-14 02:58:47 +0000",
       "jacaranda_glade": "2025-01-13 23:04:27 +0000",
       "mystic_grove": "2025-01-15 03:03:12 +0000",
+      "cold_desert": "2025-01-21 02:21:13 +0000",
       "old_growth_woodland": "2025-01-14 16:11:43 +0000",
       "withered_abyss": "2025-01-18 00:28:44 +0000",
       "orchard": "2025-01-13 23:06:45 +0000",
@@ -157,11 +169,15 @@
       "aspen_glade": "2025-01-14 15:00:28 +0000",
       "dune_beach": "2025-01-13 23:44:01 +0000",
       "seasonal_forest": "2025-01-14 01:26:34 +0000",
+      "dead_forest": "2025-01-21 02:25:59 +0000",
       "pasture": "2025-01-14 15:05:51 +0000",
       "rocky_rainforest": "2025-01-20 02:25:22 +0000",
       "volcanic_plains": "2025-01-15 03:09:54 +0000",
       "lavender_field": "2025-01-13 22:47:17 +0000",
+      "fir_clearing": "2025-01-21 02:18:20 +0000",
       "prairie": "2025-01-13 23:44:05 +0000",
+      "snowy_coniferous_forest": "2025-01-21 02:25:02 +0000",
+      "snowy_fir_clearing": "2025-01-21 02:25:03 +0000",
       "glowing_grotto": "2025-01-20 02:35:26 +0000",
       "rainforest": "2025-01-14 00:17:10 +0000"
     },
@@ -179,6 +195,7 @@
       "highland": "2025-01-14 02:58:47 +0000",
       "jacaranda_glade": "2025-01-13 23:04:27 +0000",
       "mystic_grove": "2025-01-15 03:03:12 +0000",
+      "cold_desert": "2025-01-21 02:21:13 +0000",
       "old_growth_woodland": "2025-01-14 16:11:43 +0000",
       "withered_abyss": "2025-01-18 00:28:44 +0000",
       "orchard": "2025-01-13 23:06:45 +0000",
@@ -192,11 +209,15 @@
       "aspen_glade": "2025-01-14 15:00:28 +0000",
       "dune_beach": "2025-01-13 23:44:01 +0000",
       "seasonal_forest": "2025-01-14 01:26:34 +0000",
+      "dead_forest": "2025-01-21 02:25:59 +0000",
       "pasture": "2025-01-14 15:05:51 +0000",
       "rocky_rainforest": "2025-01-20 02:25:22 +0000",
       "volcanic_plains": "2025-01-15 03:09:54 +0000",
       "lavender_field": "2025-01-13 22:47:17 +0000",
+      "fir_clearing": "2025-01-21 02:18:20 +0000",
       "prairie": "2025-01-13 23:44:05 +0000",
+      "snowy_coniferous_forest": "2025-01-21 02:25:02 +0000",
+      "snowy_fir_clearing": "2025-01-21 02:25:03 +0000",
       "glowing_grotto": "2025-01-20 02:35:26 +0000",
       "rainforest": "2025-01-14 00:17:10 +0000"
     },
@@ -805,6 +826,7 @@
       "minecraft:silverfish": "2025-01-13 23:23:35 +0000",
       "minecraft:vex": "2025-01-14 16:21:13 +0000",
       "minecraft:zombie": "2025-01-13 23:14:19 +0000",
+      "minecraft:drowned": "2025-01-21 02:17:57 +0000",
       "minecraft:zombie_villager": "2025-01-14 19:30:22 +0000"
     },
     "done": false
@@ -829,6 +851,7 @@
       "minecraft:silverfish": "2025-01-13 23:23:35 +0000",
       "minecraft:vex": "2025-01-14 16:21:13 +0000",
       "minecraft:zombie": "2025-01-13 23:14:19 +0000",
+      "minecraft:drowned": "2025-01-21 02:17:57 +0000",
       "minecraft:zombie_villager": "2025-01-14 19:30:22 +0000"
     },
     "done": false
@@ -13234,6 +13257,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-21 02:07:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-21 01:49:51 +0000"
@@ -13261,6 +13290,54 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-21 01:49:51 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-21 02:02:05 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-01-21 02:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-21 02:09:20 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-21 02:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-21 02:07:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-21 02:02:05 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-01-21 02:21:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-21 02:09:20 +0000"
     },
     "done": false
   },
@@ -13294,11 +13371,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-21 02:09:20 +0000"
+    },
+    "done": false
+  },
   "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:gauntlet": "2025-01-21 01:50:55 +0000"
     },
     "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-01-21 02:21:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
