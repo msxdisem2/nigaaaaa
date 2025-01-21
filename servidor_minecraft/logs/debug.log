@@ -12037,3 +12037,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 22:19:37.334] [Server thread/DEBUG] [mixin/]: Mixing swimming.FallLocationMixin from expandability-common.mixins.json into net.minecraft.world.damagesource.FallLocation
 [21Jan2025 22:22:27.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 22:22:27.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 22:25:36.272] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/FilterLogicContainerBase$TagSelectionSlot (target of net/minecraft/world/inventory/Slot)
+[21Jan2025 22:25:36.275] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/common/gui/FilterSlotItemHandler (target of net/minecraft/world/inventory/Slot)
+[21Jan2025 22:26:52.827] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[21Jan2025 22:27:27.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:27:27.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 22:31:32.728] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/level/block/entity/LecternBlockEntity$1 (target of net/minecraft/world/Container)
+[21Jan2025 22:31:32.732] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/MultiItemStackHandler (target of net/minecraftforge/items/IItemHandler)
+[21Jan2025 22:31:32.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 605.500000, 65.500000, -2730.500000]
+[21Jan2025 22:31:33.527] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/github/alexthe666/iceandfire/entity/tile/PixieJarInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[21Jan2025 22:32:27.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:32:27.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 22:32:45.966] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/aetherteam/aether/inventory/container/LoreInventory (target of net/minecraft/world/Container)
+[21Jan2025 22:33:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [The More You Know!]
+[21Jan2025 22:33:32.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Exotic Hardware]
+[21Jan2025 22:33:33.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Baby Food]

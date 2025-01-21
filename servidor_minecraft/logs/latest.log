@@ -760,3 +760,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 22:19:11.469] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [21Jan2025 22:19:27.628] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [21Jan2025 22:19:27.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17087ms or 341 ticks behind
+[21Jan2025 22:31:32.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 605.500000, 65.500000, -2730.500000]
+[21Jan2025 22:33:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [The More You Know!]
+[21Jan2025 22:33:32.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Exotic Hardware]
+[21Jan2025 22:33:33.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Baby Food]
