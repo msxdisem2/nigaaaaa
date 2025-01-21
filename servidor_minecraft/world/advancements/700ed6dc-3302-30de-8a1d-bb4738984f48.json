@@ -13417,7 +13417,19 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-01-21 03:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-21 03:02:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-01-21 03:02:02 +0000"
     },
@@ -13432,18 +13444,6 @@
   "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
     "criteria": {
       "has_ancient_anima": "2025-01-21 03:02:04 +0000"
-    },
-    "done": false
-  },
-  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:lich": "2025-01-21 03:01:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-01-21 03:02:02 +0000"
     },
     "done": false
   },
