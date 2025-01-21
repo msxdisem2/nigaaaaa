@@ -1522,3 +1522,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 01:49:21.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
 [21Jan2025 01:49:30.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 211.500000, 93.500000, 53.500000]
 [21Jan2025 01:49:47.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 273.500000, 42.500000, 197.500000]
+[21Jan2025 01:50:07.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21Jan2025 01:50:26.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4731ms or 94 ticks behind
+[21Jan2025 01:50:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Through the Gauntlet]
+[21Jan2025 01:51:14.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Jan2025 01:52:12.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[21Jan2025 01:52:30.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21Jan2025 01:52:47.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
+[21Jan2025 01:53:22.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jan2025 01:53:41.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 01:54:22.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 01:54:27.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 3.500000, 54.500000, 2.500000]
+[21Jan2025 01:54:31.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Killed 49 entities]
+[21Jan2025 01:54:35.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[21Jan2025 01:54:46.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
+[21Jan2025 01:57:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 769.500000, 120.500000, -246.500000]
+[21Jan2025 01:57:44.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=760, y=124, z=-233} BlockPos{x=760, y=123, z=-233}
+[21Jan2025 01:57:44.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=760, y=124, z=-233} BlockPos{x=760, y=123, z=-233}
+[21Jan2025 01:57:44.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=760, y=124, z=-233} BlockPos{x=760, y=123, z=-233}
+[21Jan2025 01:59:04.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=108, z=-175} BlockPos{x=678, y=107, z=-173}
+[21Jan2025 01:59:04.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=108, z=-175} BlockPos{x=678, y=107, z=-173}
+[21Jan2025 01:59:04.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=108, z=-175} BlockPos{x=678, y=107, z=-173}
+[21Jan2025 01:59:04.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=108, z=-175} BlockPos{x=678, y=107, z=-173}
+[21Jan2025 01:59:14.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -1336.500000, -23.500000, -1117.500000]
+[21Jan2025 01:59:34.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 28.500000, 48.500000, 37.500000]

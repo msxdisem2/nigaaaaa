@@ -13522,7 +13522,8 @@
   },
   "supplementaries:recipes/dispenser_minecart": {
     "criteria": {
-      "has_dispenser": "2025-01-07 03:05:33 +0000"
+      "has_dispenser": "2025-01-07 03:05:33 +0000",
+      "has_minecart": "2025-01-21 01:56:53 +0000"
     },
     "done": false
   },
@@ -17000,6 +17001,37 @@
       "moa_egg": "2025-01-20 03:24:16 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-21 01:56:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-01-21 01:56:30 +0000",
+      "has_minecart": "2025-01-21 01:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-21 01:56:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-21 01:56:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-21 01:56:53 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
