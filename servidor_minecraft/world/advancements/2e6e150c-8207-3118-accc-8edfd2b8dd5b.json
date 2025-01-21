@@ -18979,87 +18979,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 22:32:27 +0000"
-    },
-    "done": false
-  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-01-21 22:30:18 +0000"
     },
     "done": false
   },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-21 22:30:18 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/ambrosium_block": {
+    "criteria": {
+      "has_ambrosium_shard": "2025-01-21 22:33:04 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
     },
     "done": false
   },
@@ -19076,9 +19028,33 @@
     },
     "done": false
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-01-21 22:30:18 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-01-21 22:40:16 +0000"
     },
     "done": false
   },
@@ -19088,9 +19064,99 @@
     },
     "done": false
   },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-01-21 22:30:18 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-01-21 22:33:33 +0000"
+    },
+    "done": false
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-01-21 22:33:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-01-21 22:33:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-01-21 22:40:16 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite": "2025-01-21 22:33:32 +0000"
     },
     "done": false
   },

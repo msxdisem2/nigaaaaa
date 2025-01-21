@@ -764,3 +764,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jan2025 22:33:07.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [The More You Know!]
 [21Jan2025 22:33:32.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Exotic Hardware]
 [21Jan2025 22:33:33.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Baby Food]
+[21Jan2025 22:36:04.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:55306] logged in with entity id 5082 at (680.0133359397838, 117.0, -347.62235697442446)
+[21Jan2025 22:36:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[21Jan2025 22:36:04.269] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[21Jan2025 22:36:04.269] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[21Jan2025 22:36:04.270] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[21Jan2025 22:36:04.272] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[21Jan2025 22:36:05.766] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[21Jan2025 22:36:05.785] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[21Jan2025 22:36:05.789] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[21Jan2025 22:36:32.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[21Jan2025 22:39:09.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[21Jan2025 22:40:41.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was shot by Aechor Plant
+[21Jan2025 22:40:41.494] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[21Jan2025 22:41:32.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 22:41:44.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was shot by Aechor Plant
+[21Jan2025 22:41:44.405] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[21Jan2025 22:41:56.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[21Jan2025 22:43:21.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
