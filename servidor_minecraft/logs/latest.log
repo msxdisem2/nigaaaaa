@@ -20,3 +20,110 @@
 [22Jan2025 00:04:33.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
 [22Jan2025 00:04:33.647] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
 [22Jan2025 00:04:33.690] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jan2025 00:08:50.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.101.117.36:62356] logged in with entity id 53515 at (675.2116574176848, 117.0, -343.11858293372757)
+[22Jan2025 00:08:50.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[22Jan2025 00:08:50.309] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[22Jan2025 00:08:50.309] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[22Jan2025 00:08:50.309] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[22Jan2025 00:08:50.311] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[22Jan2025 00:08:52.940] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[22Jan2025 00:10:00.107] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48190ad6[id=<null>,name=antiqueito,properties={},legacy=false] (/100.84.150.45:50587) lost connection: Disconnected
+[22Jan2025 00:10:46.999] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7be99a4[id=<null>,name=antiqueito,properties={},legacy=false] (/100.84.150.45:50588) lost connection: Disconnected
+[22Jan2025 00:10:58.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.84.150.45:50591] logged in with entity id 53986 at (-76.5, 37.0, -123.5)
+[22Jan2025 00:10:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[22Jan2025 00:10:58.121] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[22Jan2025 00:10:58.121] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[22Jan2025 00:10:58.122] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[22Jan2025 00:10:58.123] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[22Jan2025 00:11:00.288] [Netty Epoll Server IO #0/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[22Jan2025 00:11:03.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22Jan2025 00:11:05.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported antiqueito to STRANJO]
+[22Jan2025 00:11:21.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> nigga
+[22Jan2025 00:11:28.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> PERO DSKASDJKASDJASD
+[22Jan2025 00:11:39.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> QUERI VER ALGO BACAN?
+[22Jan2025 00:11:56.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> eri autista?
+[22Jan2025 00:12:14.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> WHAAAT
+[22Jan2025 00:12:17.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> nigga
+[22Jan2025 00:12:20.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> afk farming
+[22Jan2025 00:12:24.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> como chucha
+[22Jan2025 00:12:28.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> ayer
+[22Jan2025 00:12:31.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> estuve como negro
+[22Jan2025 00:12:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> minando
+[22Jan2025 00:12:33.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ???
+[22Jan2025 00:12:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> cmo q afk
+[22Jan2025 00:12:43.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> KSJDAKJDADA
+[22Jan2025 00:12:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> gei
+[22Jan2025 00:12:53.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> niggaga
+[22Jan2025 00:13:00.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> van pal lol
+[22Jan2025 00:13:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> si
+[22Jan2025 00:13:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> oe pon cochinae
+[22Jan2025 00:13:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> vente po
+[22Jan2025 00:13:10.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> en al flauta
+[22Jan2025 00:13:21.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> pero ctmare
+[22Jan2025 00:13:22.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> aer
+[22Jan2025 00:13:24.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> pasala
+[22Jan2025 00:13:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> nigagi
+[22Jan2025 00:13:52.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> nigagu
+[22Jan2025 00:14:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> la teni encantada?
+[22Jan2025 00:14:12.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> di
+[22Jan2025 00:14:15.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> pa q no se rompa
+[22Jan2025 00:14:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xdd
+[22Jan2025 00:14:22.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> KDSAKJASDKAJSDAJDAKSJDKAJDSKASJDASKDJASKDJKOAHJFROSENFGIJDFJIS
+[22Jan2025 00:14:40.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> NIGAGU
+[22Jan2025 00:14:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> Y NO LE PODI METER MUSICA?
+[22Jan2025 00:14:56.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> nio
+[22Jan2025 00:15:06.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> oe
+[22Jan2025 00:15:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> A}7S3
+[22Jan2025 00:15:13.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> A
+[22Jan2025 00:15:14.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> metete ds mariweko
+[22Jan2025 00:15:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> A}
+[22Jan2025 00:15:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> AADAW}
+[22Jan2025 00:15:32.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> LO VOY A HACER
+[22Jan2025 00:15:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> qesawea?
+[22Jan2025 00:15:43.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> MI DRAGON
+[22Jan2025 00:15:48.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> eri weko
+[22Jan2025 00:15:52.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> YAVOY
+[22Jan2025 00:15:54.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> VAMO
+[22Jan2025 00:15:55.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
+[22Jan2025 00:15:55.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[22Jan2025 00:15:55.451] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[22Jan2025 00:15:56.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[22Jan2025 00:15:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[22Jan2025 00:15:56.996] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[22Jan2025 00:16:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jan2025 00:16:12.591] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[22Jan2025 00:16:12.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jan2025 00:16:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jan2025 00:16:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jan2025 00:16:12.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jan2025 00:16:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[22Jan2025 00:16:12.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[22Jan2025 00:16:12.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[22Jan2025 00:16:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[22Jan2025 00:16:12.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[22Jan2025 00:16:12.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[22Jan2025 00:16:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[22Jan2025 00:16:12.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[22Jan2025 00:16:12.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[22Jan2025 00:16:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[22Jan2025 00:16:12.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jan2025 00:16:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[22Jan2025 00:16:12.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jan2025 00:16:12.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jan2025 00:16:12.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[22Jan2025 00:16:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jan2025 00:16:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22Jan2025 00:16:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jan2025 00:16:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jan2025 00:16:13.000] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jan2025 00:16:13.003] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Jan2025 00:16:13.008] [Server thread/INFO] [Framework/]: Finished unloading server configs
