@@ -17048,17 +17048,23 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "crystalcraft_unlimited_java:radioactive": {
     "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+      "radioactive_0": "2025-01-21 04:51:10 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "crystalcraft_unlimited_java:a_magical_metal": {
     "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+      "a_magical_metal_0": "2025-01-21 04:52:30 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-01-21 04:57:29 +0000"
+    },
+    "done": true
   },
   "mcwbridges:recipes/nether_bricks_bridge_pier": {
     "criteria": {
@@ -17072,33 +17078,9 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-21 04:58:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
     },
     "done": false
   },
@@ -17120,33 +17102,15 @@
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-01-21 04:58:29 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-21 04:58:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
     },
     "done": false
   },
@@ -17162,18 +17126,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-01-21 05:03:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-21 04:58:29 +0000"
@@ -17183,24 +17135,6 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-01-21 04:58:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:ash_barrens/root": {
-    "criteria": {
-      "requirement": "2025-01-21 04:57:29 +0000"
-    },
-    "done": true
-  },
-  "crystalcraft_unlimited_java:radioactive": {
-    "criteria": {
-      "radioactive_0": "2025-01-21 04:51:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
     },
     "done": false
   },
@@ -17216,27 +17150,93 @@
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
-    },
-    "done": false
-  },
   "mcwbridges:recipes/nether_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-21 04:58:29 +0000"
     },
     "done": false
   },
-  "crystalcraft_unlimited_java:a_magical_metal": {
-    "criteria": {
-      "a_magical_metal_0": "2025-01-21 04:52:30 +0000"
-    },
-    "done": true
-  },
   "repurposed_structures:ruins": {
     "criteria": {
       "in_ruins_nether": "2025-01-21 05:00:27 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-21 05:02:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-21 05:03:37 +0000"
     },
     "done": false
   },

@@ -18997,6 +18997,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-01-21 23:59:07 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/decorations/skyroot_fence": {
     "criteria": {
       "has_skyroot_planks": "2025-01-21 22:44:28 +0000"
@@ -19494,6 +19500,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-21 22:30:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-01-21 23:59:07 +0000"
     },
     "done": false
   },
