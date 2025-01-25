@@ -816,7 +816,9 @@
       "minecraft:vindicator": "2025-01-14 16:21:11 +0000",
       "minecraft:spider": "2025-01-13 23:48:24 +0000",
       "minecraft:creeper": "2025-01-13 23:47:59 +0000",
+      "minecraft:wither": "2025-01-25 22:16:25 +0000",
       "minecraft:evoker": "2025-01-14 16:21:50 +0000",
+      "minecraft:slime": "2025-01-25 22:51:09 +0000",
       "minecraft:phantom": "2025-01-14 14:32:33 +0000",
       "minecraft:zombified_piglin": "2025-01-17 22:45:00 +0000",
       "minecraft:witch": "2025-01-13 23:08:48 +0000",
@@ -841,7 +843,9 @@
       "minecraft:vindicator": "2025-01-14 16:21:11 +0000",
       "minecraft:spider": "2025-01-13 23:48:24 +0000",
       "minecraft:creeper": "2025-01-13 23:47:59 +0000",
+      "minecraft:wither": "2025-01-25 22:16:25 +0000",
       "minecraft:evoker": "2025-01-14 16:21:50 +0000",
+      "minecraft:slime": "2025-01-25 22:51:09 +0000",
       "minecraft:phantom": "2025-01-14 14:32:33 +0000",
       "minecraft:zombified_piglin": "2025-01-17 22:45:00 +0000",
       "minecraft:witch": "2025-01-13 23:08:48 +0000",
@@ -13451,75 +13455,201 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-25 22:12:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-25 22:12:49 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-01-25 22:12:49 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-01-25 22:15:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-25 22:15:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/nether_star": {
+    "criteria": {
+      "has_nether_star": "2025-01-25 22:15:37 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-01-25 22:15:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-25 22:15:37 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-25 22:15:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/owner_protection": {
+    "criteria": {
+      "has_nether_star": "2025-01-25 22:15:37 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-25 22:15:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-25 22:16:25 +0000"
+    },
+    "done": true
+  },
+  "crystalcraft_unlimited_java:the_colours_of_the_rainbow": {
+    "criteria": {
+      "the_colours_of_the_rainbow_0": "2025-01-25 22:17:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-01-25 22:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-25 22:19:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-25 22:19:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-25 22:19:23 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-01-25 22:48:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-01-25 22:48:32 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-01-25 22:53:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-01-25 22:57:25 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },

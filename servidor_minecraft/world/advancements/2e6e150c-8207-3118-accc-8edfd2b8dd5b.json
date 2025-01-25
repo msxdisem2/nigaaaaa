@@ -127,7 +127,9 @@
       "minecraft:cold_ocean": "2025-01-17 21:37:28 +0000",
       "minecraft:forest": "2024-12-24 00:04:34 +0000",
       "minecraft:lush_caves": "2024-12-24 00:35:58 +0000",
+      "minecraft:frozen_ocean": "2025-01-25 22:56:11 +0000",
       "minecraft:desert": "2025-01-05 17:56:01 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-25 22:52:54 +0000",
       "minecraft:ocean": "2024-12-24 00:25:22 +0000",
       "minecraft:jungle": "2024-12-31 23:21:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 00:28:47 +0000",
@@ -1384,6 +1386,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_stick": "2024-12-24 00:06:28 +0000"
     },
     "done": false
@@ -1665,6 +1668,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_stick": "2024-12-24 00:06:28 +0000"
     },
     "done": false
@@ -2300,6 +2304,7 @@
       "minecraft:spider": "2024-12-24 00:40:49 +0000",
       "minecraft:piglin_brute": "2024-12-31 05:00:06 +0000",
       "minecraft:creeper": "2024-12-24 01:29:58 +0000",
+      "minecraft:wither": "2025-01-25 22:15:37 +0000",
       "minecraft:evoker": "2024-12-29 04:06:01 +0000",
       "minecraft:slime": "2024-12-29 05:01:47 +0000",
       "minecraft:phantom": "2024-12-24 19:32:50 +0000",
@@ -2343,6 +2348,7 @@
       "minecraft:spider": "2024-12-28 02:20:49 +0000",
       "minecraft:piglin_brute": "2024-12-31 05:00:06 +0000",
       "minecraft:creeper": "2024-12-28 01:51:34 +0000",
+      "minecraft:wither": "2025-01-25 22:15:37 +0000",
       "minecraft:evoker": "2024-12-29 04:06:01 +0000",
       "minecraft:slime": "2024-12-29 05:01:47 +0000",
       "minecraft:phantom": "2024-12-29 04:58:19 +0000",
@@ -2913,6 +2919,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_light_ceiling_fan": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_redstone": "2024-12-24 00:19:33 +0000",
       "has_iron_ingot": "2024-12-28 02:37:01 +0000",
       "has_glowstone_dust": "2024-12-30 01:23:37 +0000"
@@ -3408,6 +3415,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_quartz_block": "2025-01-17 18:40:47 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
@@ -3810,6 +3818,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_quartz_block": "2025-01-17 18:40:47 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
@@ -3867,6 +3876,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -4125,6 +4135,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_quartz_block": "2025-01-17 18:40:47 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
@@ -5424,6 +5435,7 @@
       "jacaranda_glade": "2024-12-28 23:16:44 +0000",
       "jade_cliffs": "2024-12-31 03:38:34 +0000",
       "mystic_grove": "2025-01-01 00:20:32 +0000",
+      "cold_desert": "2025-01-25 22:56:38 +0000",
       "old_growth_woodland": "2024-12-30 00:35:01 +0000",
       "maple_woods": "2025-01-17 18:16:49 +0000",
       "crystalline_chasm": "2024-12-31 05:05:35 +0000",
@@ -5439,6 +5451,7 @@
       "redwood_forest": "2024-12-28 02:07:11 +0000",
       "visceral_heap": "2024-12-31 05:25:23 +0000",
       "dune_beach": "2024-12-31 04:04:15 +0000",
+      "dead_forest": "2025-01-25 22:47:31 +0000",
       "volcano": "2024-12-31 23:30:59 +0000",
       "rocky_rainforest": "2024-12-31 23:46:07 +0000",
       "pasture": "2025-01-03 04:18:29 +0000",
@@ -5466,6 +5479,7 @@
       "jacaranda_glade": "2024-12-24 02:16:53 +0000",
       "jade_cliffs": "2024-12-24 02:51:57 +0000",
       "mystic_grove": "2025-01-01 00:20:32 +0000",
+      "cold_desert": "2025-01-25 22:56:38 +0000",
       "old_growth_woodland": "2024-12-24 20:28:45 +0000",
       "maple_woods": "2025-01-17 18:16:49 +0000",
       "crystalline_chasm": "2024-12-31 05:05:35 +0000",
@@ -5482,6 +5496,7 @@
       "redwood_forest": "2024-12-24 01:18:42 +0000",
       "visceral_heap": "2024-12-31 05:25:23 +0000",
       "dune_beach": "2024-12-24 05:38:07 +0000",
+      "dead_forest": "2025-01-25 22:47:31 +0000",
       "volcano": "2024-12-31 23:30:59 +0000",
       "pasture": "2024-12-24 05:40:09 +0000",
       "rocky_rainforest": "2024-12-24 05:58:33 +0000",
@@ -5631,6 +5646,7 @@
   },
   "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
     "criteria": {
+      "has_bottom": "2025-01-25 22:49:18 +0000",
       "has_bucket": "2024-12-24 00:35:37 +0000"
     },
     "done": false
@@ -5707,6 +5723,7 @@
   },
   "cfm:recipes/decorations/acacia_kitchen_sink_light": {
     "criteria": {
+      "has_bottom": "2025-01-25 22:49:18 +0000",
       "has_bucket": "2024-12-24 00:35:37 +0000",
       "has_top": "2024-12-31 22:45:12 +0000"
     },
@@ -6038,7 +6055,8 @@
   },
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:36:37 +0000"
+      "has_chest": "2024-12-24 00:36:37 +0000",
+      "has_planks": "2025-01-25 22:49:18 +0000"
     },
     "done": false
   },
@@ -8164,6 +8182,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_quartz_block": "2025-01-17 18:40:47 +0000",
       "has_white_dye": "2025-01-04 00:15:43 +0000",
       "has_copper_ingot": "2024-12-24 05:48:23 +0000"
@@ -9485,7 +9504,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
-      "has_glass": "2024-12-26 05:07:10 +0000"
+      "has_glass": "2024-12-26 05:07:10 +0000",
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000"
     },
     "done": false
   },
@@ -15574,12 +15594,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_white_dye": "2025-01-04 00:15:43 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_white_dye": "2025-01-04 00:15:43 +0000"
     },
     "done": false
@@ -15767,6 +15789,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
     "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000",
       "has_white_dye": "2025-01-04 00:15:43 +0000"
     },
     "done": false
@@ -19765,75 +19788,399 @@
     },
     "done": false
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-25 22:15:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-25 22:49:18 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-01-25 22:50:14 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-01-25 22:52:54 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-01-25 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-01-25 22:55:13 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-01-25 22:55:18 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-01-25 22:55:27 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-01-25 22:55:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-01-25 22:56:59 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-01-25 22:56:59 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-01-25 22:57:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-01-25 22:57:03 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-01-25 22:57:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-01-25 22:57:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-01-25 22:57:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-01-25 22:57:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-01-25 22:57:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-01-25 22:58:27 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-25 22:58:27 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-01-25 22:58:27 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "direct": "2025-01-25 22:58:57 +0000",
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "requirement": "2025-01-25 22:59:06 +0000",
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 21:48:24 +0000"
+      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-01-25 22:58:57 +0000",
+      "!bit13": "2025-01-25 22:58:57 +0000",
+      "!bit14": "2025-01-25 22:58:57 +0000",
+      "!bit11": "2025-01-25 22:58:57 +0000",
+      "!bit12": "2025-01-25 22:58:57 +0000",
+      "not_target": "2025-01-25 22:58:57 +0000",
+      "!bit10": "2025-01-25 22:58:57 +0000",
+      "!bit9": "2025-01-25 22:58:57 +0000",
+      "!bit8": "2025-01-25 22:58:57 +0000",
+      "!bit7": "2025-01-25 22:58:57 +0000",
+      "!bit6": "2025-01-25 22:58:57 +0000",
+      "!bit5": "2025-01-25 22:58:57 +0000",
+      "!bit4": "2025-01-25 22:58:57 +0000",
+      "!bit3": "2025-01-25 22:58:57 +0000",
+      "!bit2": "2025-01-25 22:58:57 +0000",
+      "!bit1": "2025-01-25 22:58:57 +0000",
+      "!bit0": "2025-01-25 22:58:57 +0000"
     },
     "done": false
   },
