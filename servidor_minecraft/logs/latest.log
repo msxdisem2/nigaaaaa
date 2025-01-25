@@ -787,3 +787,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jan2025 20:35:27.195] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Eguaro: protocol version: 2.0
 [25Jan2025 20:35:27.202] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
 [25Jan2025 20:35:27.207] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[25Jan2025 20:47:39.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Disconnected
+[25Jan2025 20:47:39.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[25Jan2025 20:47:39.474] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[25Jan2025 20:55:11.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Timed out
+[25Jan2025 20:55:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[25Jan2025 20:55:11.217] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[25Jan2025 20:55:11.282] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

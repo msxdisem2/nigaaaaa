@@ -12343,3 +12343,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jan2025 20:42:29.376] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
 [25Jan2025 20:44:01.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jan2025 20:44:01.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 20:47:39.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Disconnected
+[25Jan2025 20:47:39.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[25Jan2025 20:47:39.474] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[25Jan2025 20:49:01.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 20:49:01.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 20:54:01.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 20:54:01.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 20:55:11.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Timed out
+[25Jan2025 20:55:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[25Jan2025 20:55:11.217] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[25Jan2025 20:55:11.282] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
