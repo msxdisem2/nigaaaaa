@@ -794,3 +794,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jan2025 20:55:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [25Jan2025 20:55:11.217] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
 [25Jan2025 20:55:11.282] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jan2025 21:04:14.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.101.117.36:50178] logged in with entity id 5513 at (680.1002817022473, 117.0, -343.5543061611061)
+[25Jan2025 21:04:14.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[25Jan2025 21:04:14.605] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[25Jan2025 21:04:14.605] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[25Jan2025 21:04:14.605] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[25Jan2025 21:04:14.609] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[25Jan2025 21:04:16.755] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
