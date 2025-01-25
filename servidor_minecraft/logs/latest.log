@@ -801,3 +801,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jan2025 21:04:14.605] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [25Jan2025 21:04:14.609] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
 [25Jan2025 21:04:16.755] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[25Jan2025 21:11:38.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:57728] logged in with entity id 6598 at (627.8020719946627, 108.0, -336.2011255149358)
+[25Jan2025 21:11:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[25Jan2025 21:11:38.434] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[25Jan2025 21:11:38.435] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[25Jan2025 21:11:38.435] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[25Jan2025 21:11:38.438] [Server thread/INFO] [Jade/]: Syncing config to Eguaro (700ed6dc-3302-30de-8a1d-bb4738984f48)
+[25Jan2025 21:11:41.142] [Netty Epoll Server IO #0/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Eguaro: protocol version: 2.0
+[25Jan2025 21:14:38.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[25Jan2025 21:14:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[25Jan2025 21:14:38.825] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
