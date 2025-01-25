@@ -19759,5 +19759,11 @@
     },
     "done": false
   },
+  "l2complements:recipes/burnt/burnt/beef": {
+    "criteria": {
+      "has_beef": "2025-01-25 21:24:28 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

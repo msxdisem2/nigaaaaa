@@ -822,3 +822,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jan2025 21:22:34.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 234.500000, 72.500000, 73.500000]
 [25Jan2025 21:24:22.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=265, y=15, z=237} BlockPos{x=265, y=14, z=236}
 [25Jan2025 21:27:42.491] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[25Jan2025 21:28:25.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Killed 321 entities]
+[25Jan2025 21:28:59.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Killed 162 entities]
+[25Jan2025 21:29:33.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[25Jan2025 21:29:51.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[25Jan2025 21:30:10.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4127ms or 82 ticks behind
+[25Jan2025 21:30:12.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Killed 191 entities]
+[25Jan2025 21:30:28.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[25Jan2025 21:30:57.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Jan2025 21:31:14.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[25Jan2025 21:31:33.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
+[25Jan2025 21:31:52.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4559ms or 91 ticks behind
+[25Jan2025 21:32:06.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=451, y=16, z=388} BlockPos{x=452, y=16, z=385}
+[25Jan2025 21:32:06.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=451, y=16, z=388} BlockPos{x=452, y=16, z=385}
+[25Jan2025 21:32:12.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5043ms or 100 ticks behind
+[25Jan2025 21:32:30.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3160ms or 63 ticks behind
+[25Jan2025 21:32:48.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
+[25Jan2025 21:33:08.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[25Jan2025 21:33:33.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[25Jan2025 21:33:50.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[25Jan2025 21:34:08.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3057ms or 61 ticks behind
+[25Jan2025 21:34:21.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved wrongly!
+[25Jan2025 21:34:26.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2869ms or 57 ticks behind
+[25Jan2025 21:34:44.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3067ms or 61 ticks behind
+[25Jan2025 21:35:05.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5958ms or 119 ticks behind
+[25Jan2025 21:35:07.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Killed 1010 entities]
+[25Jan2025 21:35:23.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[25Jan2025 21:35:40.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[25Jan2025 21:35:58.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[25Jan2025 21:36:17.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3776ms or 75 ticks behind
+[25Jan2025 21:36:37.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5173ms or 103 ticks behind
+[25Jan2025 21:36:46.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Killed 743 entities]
+[25Jan2025 21:36:57.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5133ms or 102 ticks behind
+[25Jan2025 21:37:17.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4400ms or 88 ticks behind
+[25Jan2025 21:37:35.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
+[25Jan2025 21:37:52.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[25Jan2025 21:37:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Killed 238 entities]
