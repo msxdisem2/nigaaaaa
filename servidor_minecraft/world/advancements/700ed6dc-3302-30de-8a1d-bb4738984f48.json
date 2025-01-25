@@ -8093,9 +8093,10 @@
   },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "has_raw_iron": "2025-01-14 15:25:22 +0000"
+      "has_raw_iron": "2025-01-14 15:25:22 +0000",
+      "has_the_recipe": "2025-01-25 21:18:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
@@ -11420,6 +11421,7 @@
   },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-01-25 21:15:50 +0000",
       "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-01-18 01:02:02 +0000"
     },
     "done": false
@@ -13365,9 +13367,10 @@
   },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-21 02:07:01 +0000"
+      "has_smithing_trim_template": "2025-01-21 02:07:01 +0000",
+      "has_the_recipe": "2025-01-25 21:15:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
