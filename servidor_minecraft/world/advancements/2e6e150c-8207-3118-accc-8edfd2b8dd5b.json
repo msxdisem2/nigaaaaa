@@ -109,8 +109,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-25 23:17:59 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-31 23:07:22 +0000",
       "minecraft:deep_ocean": "2024-12-31 04:04:28 +0000",
+      "minecraft:frozen_river": "2025-01-25 23:19:43 +0000",
       "minecraft:cherry_grove": "2024-12-27 05:05:43 +0000",
       "minecraft:sunflower_plains": "2025-01-13 23:56:32 +0000",
       "minecraft:birch_forest": "2024-12-24 00:24:50 +0000",
@@ -122,7 +124,10 @@
       "minecraft:river": "2024-12-24 00:25:06 +0000",
       "minecraft:lukewarm_ocean": "2024-12-25 23:42:36 +0000",
       "minecraft:stony_shore": "2025-01-17 21:37:21 +0000",
+      "minecraft:snowy_plains": "2025-01-25 23:31:16 +0000",
       "minecraft:dripstone_caves": "2024-12-31 23:22:03 +0000",
+      "minecraft:snowy_taiga": "2025-01-25 23:27:41 +0000",
+      "minecraft:grove": "2025-01-25 23:27:31 +0000",
       "minecraft:jagged_peaks": "2024-12-31 23:31:06 +0000",
       "minecraft:cold_ocean": "2025-01-17 21:37:28 +0000",
       "minecraft:forest": "2024-12-24 00:04:34 +0000",
@@ -3282,6 +3287,7 @@
       "has_iron_sword": "2024-12-29 23:59:23 +0000",
       "has_chainmail_leggings": "2024-12-31 01:04:30 +0000",
       "has_chainmail_chestplate": "2024-12-28 03:33:19 +0000",
+      "has_chainmail_boots": "2025-01-25 23:12:00 +0000",
       "has_iron_chestplate": "2024-12-24 00:19:41 +0000"
     },
     "done": false
@@ -3298,6 +3304,7 @@
       "has_iron_sword": "2024-12-29 23:59:23 +0000",
       "has_chainmail_leggings": "2024-12-31 01:04:30 +0000",
       "has_chainmail_chestplate": "2024-12-28 03:33:19 +0000",
+      "has_chainmail_boots": "2025-01-25 23:12:00 +0000",
       "has_iron_chestplate": "2024-12-24 00:19:41 +0000"
     },
     "done": false
@@ -4624,6 +4631,7 @@
   },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
+      "has_cyan_candle": "2025-01-25 23:43:08 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -5448,6 +5456,7 @@
       "dryland": "2024-12-31 04:07:42 +0000",
       "wasteland": "2024-12-30 00:44:32 +0000",
       "lush_desert": "2024-12-31 03:56:02 +0000",
+      "old_growth_dead_forest": "2025-01-25 23:46:00 +0000",
       "redwood_forest": "2024-12-28 02:07:11 +0000",
       "visceral_heap": "2024-12-31 05:25:23 +0000",
       "dune_beach": "2024-12-31 04:04:15 +0000",
@@ -5493,6 +5502,7 @@
       "dryland": "2024-12-31 04:07:42 +0000",
       "wasteland": "2024-12-30 00:44:32 +0000",
       "lush_desert": "2024-12-31 03:56:02 +0000",
+      "old_growth_dead_forest": "2025-01-25 23:46:00 +0000",
       "redwood_forest": "2024-12-24 01:18:42 +0000",
       "visceral_heap": "2024-12-31 05:25:23 +0000",
       "dune_beach": "2024-12-24 05:38:07 +0000",
@@ -11836,7 +11846,8 @@
   },
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
-      "has_netherite_scrap": "2024-12-29 05:02:38 +0000"
+      "has_netherite_scrap": "2024-12-29 05:02:38 +0000",
+      "has_dragon_breath": "2025-01-25 23:36:04 +0000"
     },
     "done": false
   },
@@ -13025,7 +13036,8 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_nether": "2024-12-30 02:17:11 +0000",
-      "in_pyramid_jungle": "2024-12-31 23:44:45 +0000"
+      "in_pyramid_jungle": "2024-12-31 23:44:45 +0000",
+      "in_pyramid_snowy": "2025-01-25 23:25:50 +0000"
     },
     "done": false
   },
@@ -13977,7 +13989,8 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
-      "in_outpost_nether_brick": "2024-12-31 05:53:45 +0000"
+      "in_outpost_nether_brick": "2024-12-31 05:53:45 +0000",
+      "in_outpost_snowy": "2025-01-25 23:28:39 +0000"
     },
     "done": false
   },
@@ -20088,99 +20101,105 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "has_chainmail_boots": "2025-01-25 23:12:00 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
     "criteria": {
-      "direct": "2025-01-25 22:58:57 +0000",
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "has_item": "2025-01-25 23:15:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "has_dragonscales_sapphire": "2025-01-25 23:15:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "has_item": "2025-01-25 23:15:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "has_item": "2025-01-25 23:15:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "has_item": "2025-01-25 23:15:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
+  "mowziesmobs:kill_frostmaw": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-01-25 22:59:06 +0000",
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "frostmaw": "2025-01-25 23:23:05 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "has_polished_diorite": "2025-01-25 23:29:43 +0000"
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-01-25 22:58:52 +0000"
+      "has_polished_diorite": "2025-01-25 23:29:43 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_hit": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
-      "direct": "2025-01-25 22:58:57 +0000",
-      "!bit13": "2025-01-25 22:58:57 +0000",
-      "!bit14": "2025-01-25 22:58:57 +0000",
-      "!bit11": "2025-01-25 22:58:57 +0000",
-      "!bit12": "2025-01-25 22:58:57 +0000",
-      "not_target": "2025-01-25 22:58:57 +0000",
-      "!bit10": "2025-01-25 22:58:57 +0000",
-      "!bit9": "2025-01-25 22:58:57 +0000",
-      "!bit8": "2025-01-25 22:58:57 +0000",
-      "!bit7": "2025-01-25 22:58:57 +0000",
-      "!bit6": "2025-01-25 22:58:57 +0000",
-      "!bit5": "2025-01-25 22:58:57 +0000",
-      "!bit4": "2025-01-25 22:58:57 +0000",
-      "!bit3": "2025-01-25 22:58:57 +0000",
-      "!bit2": "2025-01-25 22:58:57 +0000",
-      "!bit1": "2025-01-25 22:58:57 +0000",
-      "!bit0": "2025-01-25 22:58:57 +0000"
+      "has_polished_diorite": "2025-01-25 23:29:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-25 23:29:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-25 23:36:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-25 23:36:11 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-25 23:36:11 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-25 23:36:11 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-01-25 23:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-01-25 23:40:05 +0000"
     },
     "done": false
   },
